@@ -1,0 +1,12 @@
+[project]
+name = "i2k-workshop"
+version = "0.1.0"
+description = "Example notebooks and exercises for the I2K 2026 CAREamics workshop."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "careamics[examples]>=0.3.0, <0.4.0",
+]
+
+[tool.uv.sources]
+careamics = {git = "https://github.com/CAREamics/careamics", branch = "main"}
