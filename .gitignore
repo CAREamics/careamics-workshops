@@ -1,6 +1,8 @@
 **/.ipynb_checkpoints
 **/csv_logs
 **/checkpoints
+**/data
+**/results
 
 # Python-generated files
 __pycache__/
