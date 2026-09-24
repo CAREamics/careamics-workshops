@@ -22,3 +22,5 @@ Check out the notebook in `n2v`.
 In the future:
 - DL4MicEveryWhere
 - Bilayers
+
+## References
