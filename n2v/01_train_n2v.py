@@ -25,7 +25,7 @@ def train_and_predict() -> None:
         )
     
     # configuration
-    n_epochs = 10
+    n_epochs = 20
     name = f"n2v_gauss_noise_e{n_epochs}"
     exp = root_exp / name
     exp.mkdir(parents=True, exist_ok=True)
@@ -45,13 +45,13 @@ def train_and_predict() -> None:
     # train!
     careamist.train(train_data=file_path)
 
-    # save loss to disk
-    plot_loss(careamist.get_losses(), save_path=exp, plot_learning_rate=False, plot_metrics=False)
-
     # predict to disk
     careamist.predict_to_disk(
         pred_data=file_path
     )
+
+    # save loss to disk
+    plot_loss(careamist.get_losses(), save_path=exp, plot_learning_rate=False, plot_metrics=False)
 
 if __name__ == "__main__":
     train_and_predict()
