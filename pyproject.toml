@@ -3,12 +3,12 @@ name = "i2k-workshop"
 version = "0.1.0"
 description = "Example notebooks and exercises for the I2K 2026 CAREamics workshop."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
-    "careamics[examples]>=0.3.0,<0.4.0",
-    "careamics-napari>=0.3.0,<0.4.0",
-    "napari>=0.9.0,<0.10.0"
+    "careamics[examples]>=0.3.4,<0.4.0",
+    # "careamics-napari>=0.3.4b0,<0.4.0",
+    # "napari>=0.9.0,<0.10.0"
 ]
 
 [tool.uv.sources]
-careamics = {git = "https://github.com/CAREamics/careamics", branch = "main"}
+careamics = {git = "https://github.com/CAREamics/careamics", branch = "dev/ome_zarr_sister"}
