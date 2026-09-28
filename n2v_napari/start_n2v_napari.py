@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # add n2v plugin
     viewer.window.add_dock_widget(N2VPlugin(viewer))
     # add data
-    for layer in data:
-        viewer.add_layer(layer)
+    for img, name_dict in data:
+        viewer.add_image(data=img, name=name_dict["name"])
     # start UI
     napari.run()

@@ -1,7 +1,9 @@
 # CAREamics Fiji
 
-The CAREamics Fiji is an Appose plugin for Fiji. 
+In this section, we take a peek at the Noise2Void Appose plugin for Fiji. 
 
+> [!WARNING]  
+> This plugin is experimental and is not expected to be bug-free.
 
 ## Pre-requisite
 
