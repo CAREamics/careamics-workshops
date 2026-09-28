@@ -17,3 +17,7 @@ You can run the notebook as a stand-alone using `juv` (pre-requisite):
 juv run n2v_in_depth.ipynb
 ```
 
+
+## References
+
+- [Noise2Void paper](https://arxiv.org/abs/1811.10980)
