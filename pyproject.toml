@@ -13,4 +13,4 @@ dependencies = [
 [tool.uv.sources]
 # careamics = {git = "https://github.com/CAREamics/careamics", branch = "main"}
 # careamics = {git = "https://github.com/CAREamics/careamics", branch = "dev/ome_zarr_sister"}
-careamics = {git = "https://github.com/CAREamics/careamics", branch = "dev/msplit_sister"}
+careamics = {git = "https://github.com/CAREamics/careamics", branch = "dev/microsplit_sister"}
