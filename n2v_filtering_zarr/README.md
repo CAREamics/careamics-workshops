@@ -1,5 +1,7 @@
 # CAREamics data loading and OME-NGFF
 
+Updated: 30.09.26
+
 Here, we demonstrate certain features of CAREamics data loading (part of the stable
 release) and the current proposal for OME-NGFF support (experimental).
 
