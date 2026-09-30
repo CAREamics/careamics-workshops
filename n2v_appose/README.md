@@ -18,3 +18,10 @@ In this section, we take a peek at the [Noise2Void Appose plugin for Fiji](https
 3. Download the [SEM example data](https://download.fht.org/jug/n2v/SEM.zip)
 4. Start the CAREamics plugin from within Fiji
 5. Select 15 epochs and run training
+
+
+## Future developments
+
+We want to develop the Appose plugin further, including:
+- A prediction plugin
+- Training and prediction from files on disk (including OME-Zarr)
