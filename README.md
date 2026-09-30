@@ -15,18 +15,7 @@ with `uv`.
 
 This repository requires `uv` for scripts and the `uv` plugin `juv` for notebooks.
 
-## Deep dive in Noise2Void
 
-In this `n2v`, we take a deep dive into Noise2Void using `n2v_in_depth.ipynb`. We discuss
-pixel noise in microscopy, how Noise2Void trains by masking pixels, and showcase how
-to run Noise2Void with CAREamics and some limitations of the method.
+## Workshops
 
-## Noise2Void GUI
-
-- [CAREamics napari plugin](https://github.com/CAREamics/careamics-ui)
-
-## CAREamics data loading and OME-NGFF demo
-
-
-
-## MicroSplit demo
+- [Material for I2K 26](/workshop_instructions/i2k26.md)
