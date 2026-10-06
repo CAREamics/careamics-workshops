@@ -58,6 +58,6 @@ We also provide an example notebook to [better understand Noise2Void](https://gi
 
 ### Questions / help needed?
 
-Contact us on [image.sc] using the `careamics` topic or open an [issue on CAREamics](https://github.com/CAREamics/careamics/issues).
+Contact us on the [image.sc](image.sc) forum using the `careamics` topic or open an [issue on CAREamics](https://github.com/CAREamics/careamics/issues).
 
 
