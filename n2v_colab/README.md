@@ -6,7 +6,7 @@
 </p>
 
 
-# Noise2Void with CAREamics
+# Noise2Void in Colab
 
 In this section, we explore Noise2Void in CAREamics using Google Colab.
 
