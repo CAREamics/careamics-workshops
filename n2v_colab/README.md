@@ -25,7 +25,7 @@ This will reopen a copy hosted on your Google Drive.
 
 ## 2 - Setting up
 
-1. Make sure you are using a GPU: under your profile click on "v" and select `Change runtime type > T4 GPU > Save`. 
+1. Make sure you are using a GPU: under your profile click on the "v" button and select `Change runtime type > T4 GPU > Save`. 
 2. Run cells in order, top to bottom. To run a cell, click the "▶" (play) button on its top-left corner. Alternatively, click on the cell and press `Shift+Enter`. Wait for each cell to finish (a green tick appears) before running the next.
 3. You can ignore the code. The only things you need to fill in are the form fields (boxes and tick-boxes) in the cells.
 
