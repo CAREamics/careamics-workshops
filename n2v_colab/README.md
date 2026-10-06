@@ -16,8 +16,7 @@ In this section, we explore Noise2Void in CAREamics using Google Colab.
 
 ## 1 - Download the Colab notebook
  
-1. Open the [notebook in Colab]
-(https://colab.research.google.com/github/CAREamics/ZeroCostDL4Mic/blob/n2v-careamics/Colab_notebooks/CAREamics_Noise2Void_2D_ZeroCostDL4Mic.ipynb).
+1. Open the [notebook in Colab](https://colab.research.google.com/github/CAREamics/ZeroCostDL4Mic/blob/n2v-careamics/Colab_notebooks/CAREamics_Noise2Void_2D_ZeroCostDL4Mic.ipynb).
 2. Sign-in with your Google account.
 3. Choose `File > Save a copy in Drive`.
 
