@@ -2,7 +2,7 @@
 
 The CAREamics UI is a napari plugin. 
 
-## Pre-requisite
+## Pre-requisites
 
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
 

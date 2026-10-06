@@ -4,7 +4,7 @@ In this section, we take a deep dive into Noise2Void using `n2v_in_depth.ipynb`.
 pixel noise in microscopy, how Noise2Void trains by masking pixels, and showcase how
 to run Noise2Void with CAREamics and some limitations of the method.
 
-## Pre-requisite
+## Pre-requisites
 
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
 - [juv](https://github.com/manzt/juv)
